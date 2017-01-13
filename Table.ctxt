@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Table()
+comment1.params=event
+comment1.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment2.params=
+comment2.target=void\ reset()
+comment3.params=event
+comment3.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment4.params=c
+comment4.target=void\ setCP(ControlPanel)
+comment5.params=
+comment5.target=int\ getCardsLeft()
+numComments=6
